@@ -1,0 +1,24 @@
+{
+  "name": "Node-CrossGaming-Lotto-Platform",
+  "version": "1.0.0",
+  "description": "Node-CrossGaming-Lotto-Platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VardanMelik/Node-CrossGaming-Lotto-Platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VardanMelik/Node-CrossGaming-Lotto-Platform/issues"
+  },
+  "homepage": "https://github.com/VardanMelik/Node-CrossGaming-Lotto-Platform#readme",
+  "dependencies": {
+    "coinpayments": "^2.1.0"
+  }
+}
